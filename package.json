@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-gridfs",
+  "name": "eflex-mongoose-gridfs",
   "version": "1.2.5",
   "description": "mongoose gridfs on top of gridfs-stream",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lykmapipo/mongoose-gridfs"
+    "url": "https://github.com/eflexsystems/mongoose-gridfs"
   },
   "keywords": [
     "mongoose-plugin",
@@ -30,7 +30,7 @@
   "author": "lykmapipo <lallyelias87@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lykmapipo/mongoose-gridfs/issues"
+    "url": "https://github.com/eflexsystems/mongoose-gridfs/issues"
   },
   "dependencies": {
     "@lykmapipo/mongoose-common": ">=0.25.10",
